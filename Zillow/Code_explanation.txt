@@ -1,0 +1,17 @@
+How the website fetches data:
+    - Disabling javascript didn't change anything, so no need to use Splash.
+    - A XHR request was found when going to the second page of the listings. This XHR request response
+        contains all the listings on the web page. Hence, no need to scrap the html. We can just use the API to
+        retrieve the listings.
+    - Always useful to try and find an API that fetches data. Mostly it shows up in pagination requests.
+    - Double check that url response given by the script is the same as shown on the network tab on the browser.
+        Otherwise, might have to add more request headers like cookies
+
+Had to change user agent and disobey robo file to retrieve the listings.
+
+All pagination requests are sent to the same URL "https://www.zillow.com/async-create-search-page-state"
+with the same payload in the form of a query. Just that the pagination key is modified.
+
+Adding "photos.zillowstatic.com" to allowed_domains solved the issue of downloading the images
+
+

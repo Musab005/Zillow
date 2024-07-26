@@ -1,0 +1,2066 @@
+[
+  {
+    "id": "402339692",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/754740626cb59bd3731473d16b180938-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/131-Norfolk-St-APT-3B-New-York-NY-10002/402339692_zpid/",
+    "price": "$299,000",
+    "address": "131 Norfolk Street UNIT 3B, New York, NY 10002",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 575,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RE/MAX Distinguished Hms.&Prop",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/754740626cb59bd3731473d16b180938-p_e.jpg",
+        "path": "images/402339692.jpg",
+        "checksum": "d910ca825905fc14d7f881f0b785362c",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "340862316",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/6a62ec8c114f4aefec8cb2b96cb7ae38-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/448-E-87th-St-APT-3C-New-York-NY-10028/340862316_zpid/",
+    "price": "$274,500",
+    "address": "448 E 87th St APT 3C, New York, NY 10028",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/6a62ec8c114f4aefec8cb2b96cb7ae38-p_e.jpg",
+        "path": "images/340862316.jpg",
+        "checksum": "9b09fd33eaa4316255dba0f9fca4f307",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "248685691",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/2990e4e70a0d9374163cbb8152a36b9f-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/157-W-123rd-St-APT-3E-New-York-NY-10027/248685691_zpid/",
+    "price": "$169,999",
+    "address": "157 W 123 Street UNIT 3E, New York, NY 10027",
+    "baths": 1.0,
+    "sqft": 300,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Winzone Realty Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/2990e4e70a0d9374163cbb8152a36b9f-p_e.jpg",
+        "path": "images/248685691.jpg",
+        "checksum": "210df94c2b4b786430ac1c4044a63fc9",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "401863625",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/48cbbe3ce0b5e88809c634d324664c9d-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/225-Bennett-Ave-APT-5P-New-York-NY-10040/401863625_zpid/",
+    "price": "$245,000",
+    "address": "225 Bennett Ave APT 5P, New York, NY 10040",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/48cbbe3ce0b5e88809c634d324664c9d-p_e.jpg",
+        "path": "images/401863625.jpg",
+        "checksum": "40e28e4c76d56f598faa7eb5fa132f6e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "245084941",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/2666cda23da6f9a581e56ea4f72ddaa4-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/29-Convent-Ave-APT-11-New-York-NY-10027/245084941_zpid/",
+    "price": "$300,000",
+    "address": "29 Convent Ave APT 11, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 454,
+    "isZillowOwned": false,
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/2666cda23da6f9a581e56ea4f72ddaa4-p_e.jpg",
+        "path": "images/245084941.jpg",
+        "checksum": "94437704676e12045fc244381571556e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "89029174",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/92a2795740d94295d0e7f3f64c53de19-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/160-E-91st-St-APT-4B-New-York-NY-10128/89029174_zpid/",
+    "price": "$299,000",
+    "address": "160 E 91st St APT 4B, New York, NY 10128",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: The Agency",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/92a2795740d94295d0e7f3f64c53de19-p_e.jpg",
+        "path": "images/89029174.jpg",
+        "checksum": "675159e81e57663927c00a0365b0111f",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "219676788",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/c687e3419f4208dfa1946be67edaf6e3-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-1210-New-York-NY-10017/219676788_zpid/",
+    "price": "$250,000",
+    "address": "25 Tudor City Pl APT 1210, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Corcoran",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/c687e3419f4208dfa1946be67edaf6e3-p_e.jpg",
+        "path": "images/219676788.jpg",
+        "checksum": "e0b538f722a45656c3615b3be9abdcb9",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244708489",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/334d5fafd138f11336f5e347f31c1ca7-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/135-W-115th-St-APT-5A-New-York-NY-10026/244708489_zpid/",
+    "price": "$225,000",
+    "address": "135 W 115th St APT 5A, New York, NY 10026",
+    "beds": 1,
+    "baths": 1.0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Highline Residential",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/334d5fafd138f11336f5e347f31c1ca7-p_e.jpg",
+        "path": "images/244708489.jpg",
+        "checksum": "ef11193e415e4a16d1d08d433f181fb5",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72525114",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/36bad57f5112a21dcf6e916f14f6d0ce-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-1217-New-York-NY-10017/72525114_zpid/",
+    "price": "$285,000",
+    "address": "25 Tudor City Pl APT 1217, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Corcoran",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/36bad57f5112a21dcf6e916f14f6d0ce-p_e.jpg",
+        "path": "images/72525114.jpg",
+        "checksum": "ca82e04c6e66051702d7cace96f25e10",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "122552668",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/6e27d58864f0800142d22be6e444c586-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/345-W-145th-St-APT-11A2A-New-York-NY-10031/122552668_zpid/",
+    "price": "$299,000",
+    "address": "345 W 145th St APT 11A2A, New York, NY 10031",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Porter Grey LLC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/6e27d58864f0800142d22be6e444c586-p_e.jpg",
+        "path": "images/122552668.jpg",
+        "checksum": "0e03e5034ece1298eedb1b00bff6bf61",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72539459",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ab2d6783215919d8a89351e9b29de966-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/45-Tudor-City-Pl-APT-1403-New-York-NY-10017/72539459_zpid/",
+    "price": "$299,900",
+    "address": "45 Tudor City Pl APT 1403, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams NYC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ab2d6783215919d8a89351e9b29de966-p_e.jpg",
+        "path": "images/72539459.jpg",
+        "checksum": "26690fca91e4b923dc1fb5b005a3fbaf",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "377307702",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ad9e350c87dc4a4d190370de5e642b04-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/320-E-42nd-St-APT-1406-New-York-NY-10017/377307702_zpid/",
+    "price": "$298,000",
+    "address": "320 E 42nd St APT 1406, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 325,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Douglas Elliman",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ad9e350c87dc4a4d190370de5e642b04-p_e.jpg",
+        "path": "images/377307702.jpg",
+        "checksum": "4d01a2011a9d733c4a7d684ceff9b7cd",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244871027",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/fd02f1ae29d51d31e44147d833262659-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/95-Park-Ter-E-APT-3A-New-York-NY-10034/244871027_zpid/",
+    "price": "$300,000",
+    "address": "95 Park Ter E APT 3A, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 589,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Oxford Property Group",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/fd02f1ae29d51d31e44147d833262659-p_e.jpg",
+        "path": "images/244871027.jpg",
+        "checksum": "c5f84aacac2d0e0074e48d5a3e8cdae7",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72540395",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/a0153c68fe0fa63a6f046e8b747f91c9-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/519-E-87th-St-APT-4B-New-York-NY-10128/72540395_zpid/",
+    "price": "$285,000",
+    "address": "519 E 87th St APT 4B, New York, NY 10128",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Sotheby's International Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/a0153c68fe0fa63a6f046e8b747f91c9-p_e.jpg",
+        "path": "images/72540395.jpg",
+        "checksum": "37042ead76902de2121d99874664a038",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "370653882",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/2e684460d9282c8643a64a9128814a4a-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/517-W-151st-St-APT-2B-New-York-NY-10031/370653882_zpid/",
+    "price": "$175,000",
+    "address": "517 W 151st Street UNIT 2B, New York, NY 10031",
+    "beds": 3,
+    "baths": 2.0,
+    "sqft": 1050,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RE/MAX Distinguished Hms.&Prop",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/2e684460d9282c8643a64a9128814a4a-p_e.jpg",
+        "path": "images/370653882.jpg",
+        "checksum": "05987578c984d93783ef249b99b7088a",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72532957",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/cf8b582d7f3a316dce6c0e35c93d3197-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/415-E-82nd-St-APT-2A-New-York-NY-10028/72532957_zpid/",
+    "price": "$300,000",
+    "address": "415 E 82nd St APT 2A, New York, NY 10028",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 450,
+    "isZillowOwned": false,
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/cf8b582d7f3a316dce6c0e35c93d3197-p_e.jpg",
+        "path": "images/72532957.jpg",
+        "checksum": "e8c2937d54823ec8aec7990477aed12f",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2055903904",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/fee34a4891731169788ff774b0786458-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/90-La-Salle-St-APT-16E-New-York-NY-10027/2055903904_zpid/",
+    "price": "$295,000",
+    "address": "90 La Salle St APT 16E, New York, NY 10027",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 500,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams NYC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/fee34a4891731169788ff774b0786458-p_e.jpg",
+        "path": "images/2055903904.jpg",
+        "checksum": "2894c9d730dbf89bf7a1c01509c83110",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244741759",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/bf3fcad6be8ac876c7d4b4c9dae6335f-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/206-W-121st-St-APT-1A-New-York-NY-10027/244741759_zpid/",
+    "price": "$229,000",
+    "address": "206 W 121st Street UNIT 1A, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 550,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Cohen and Cohen Consulting",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/bf3fcad6be8ac876c7d4b4c9dae6335f-p_e.jpg",
+        "path": "images/244741759.jpg",
+        "checksum": "416141eb008029d50a5b14fe115185b2",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244872641",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/fc7dffaa9dc1da9e2c16f9975a8132e8-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/2090-Madison-Ave-APT-1D-New-York-NY-10037/244872641_zpid/",
+    "price": "$290,000",
+    "address": "2090 Madison Ave APT 1D, New York, NY 10037",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams NYC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/fc7dffaa9dc1da9e2c16f9975a8132e8-p_e.jpg",
+        "path": "images/244872641.jpg",
+        "checksum": "d449ebfaf00d906b5e982e68d17ffd83",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244741001",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ccb0c62e63bc4df5188b68de2427ed6d-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/206-W-121st-St-APT-4E-New-York-NY-10027/244741001_zpid/",
+    "price": "$229,888",
+    "address": "206 W 121st Street UNIT 4E, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 550,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Cohen and Cohen Consulting",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ccb0c62e63bc4df5188b68de2427ed6d-p_e.jpg",
+        "path": "images/244741001.jpg",
+        "checksum": "c4ffb294f3e87ac533386aa658bdcdfb",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72536708",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/a33de157ba167a4abe35bc6f62ff2210-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/70-Park-Ter-E-APT-3G-New-York-NY-10034/72536708_zpid/",
+    "price": "$250,000",
+    "address": "70 Park Ter E APT 3G, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/a33de157ba167a4abe35bc6f62ff2210-p_e.jpg",
+        "path": "images/72536708.jpg",
+        "checksum": "a0776ef909e92bfc124c95cc6662927b",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72522298",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/fbd72da23b6cbba347b69f696eb9cc66-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/66-W-84th-St-APT-5D-Manhattan-NY-10024/72522298_zpid/",
+    "price": "$300,000",
+    "address": "66 W 84th St APT 5D, Manhattan, NY 10024",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: CORE",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/fbd72da23b6cbba347b69f696eb9cc66-p_e.jpg",
+        "path": "images/72522298.jpg",
+        "checksum": "819caa0a7fcbe1a44b3a1a0856273e04",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "219700122",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/8806c199695f91456179b4eb00de06bd-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/411-E-85th-St-APT-1B-New-York-NY-10028/219700122_zpid/",
+    "price": "$250,000",
+    "address": "411 E 85th St APT 1B, New York, NY 10028",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Meredith S. Kutner, LREB",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/8806c199695f91456179b4eb00de06bd-p_e.jpg",
+        "path": "images/219700122.jpg",
+        "checksum": "5799c07b7c8a7929d12dfce00fa97ba4",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244693948",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ec232ec7ae67b7dba6d5dde20e53bc08-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-618-New-York-NY-10017/244693948_zpid/",
+    "price": "$279,000",
+    "address": "25 Tudor City Pl APT 618, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Douglas Elliman",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ec232ec7ae67b7dba6d5dde20e53bc08-p_e.jpg",
+        "path": "images/244693948.jpg",
+        "checksum": "95bb04bb881dba66098c75a8f1a8a8f3",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72541127",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/da1b46cefd9c473afccd623d4ee9f1e3-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/30-Bogardus-Pl-APT-5A-New-York-NY-10040/72541127_zpid/",
+    "price": "$295,000",
+    "address": "30 Bogardus Pl APT 5A, New York, NY 10040",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Bizzarro Agency",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/da1b46cefd9c473afccd623d4ee9f1e3-p_e.jpg",
+        "path": "images/72541127.jpg",
+        "checksum": "789361cdb698bad1c1aa8af2a9b37b9e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "119912861",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ca683d134a40c8cba2c42a18d1d98f83-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/15-Fort-Washington-Ave-APT-4F-New-York-NY-10032/119912861_zpid/",
+    "price": "$295,000",
+    "address": "15 Fort Washington Ave APT 4F, New York, NY 10032",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ca683d134a40c8cba2c42a18d1d98f83-p_e.jpg",
+        "path": "images/119912861.jpg",
+        "checksum": "6e3cafd9a34928df67d72c266d675601",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "351951525",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/a40ac6104e40ec4ca5ba2a69ab094105-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/214-Bradhurst-Ave-APT-19-New-York-NY-10039/351951525_zpid/",
+    "price": "$299,000",
+    "address": "214 Bradhurst Ave APT 19, New York, NY 10039",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams NYC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/a40ac6104e40ec4ca5ba2a69ab094105-p_e.jpg",
+        "path": "images/351951525.jpg",
+        "checksum": "41494fd4c9c7def171952c2887cedc40",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "351740637",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/b638edc7034e6627a45527ec7fcd15fc-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/424-E-115th-St-APT-2D-New-York-NY-10029/351740637_zpid/",
+    "price": "$169,995",
+    "address": "424 E 115th St APT 2D, New York, NY 10029",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Platinum Properties",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/b638edc7034e6627a45527ec7fcd15fc-p_e.jpg",
+        "path": "images/351740637.jpg",
+        "checksum": "4aa3c86b94dbddeb825ec9073315ec41",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "351727555",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/71f2fbf6ebe1cdb527f44aee2943e22d-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/157-W-123rd-St-APT-5E-New-York-NY-10027/351727555_zpid/",
+    "price": "$200,000",
+    "address": "157 W 123rd St APT 5E, New York, NY 10027",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Sloyer Real Estate Corp",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/71f2fbf6ebe1cdb527f44aee2943e22d-p_e.jpg",
+        "path": "images/351727555.jpg",
+        "checksum": "e801b6272cd0e560ce590e69f09ee4c7",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "351726972",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/66a5a54e6801b2ce700844a9b7a08256-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/157-W-123rd-St-APT-3C-New-York-NY-10027/351726972_zpid/",
+    "price": "$300,000",
+    "address": "157 W 123rd St APT 3C, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Sloyer Real Estate Corp",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/66a5a54e6801b2ce700844a9b7a08256-p_e.jpg",
+        "path": "images/351726972.jpg",
+        "checksum": "98da661820a47788e6d912b4a1c01101",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72528517",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/7c5f21f1ccf3f787c2965d3c37608756-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/205-E-63rd-St-APT-5H-New-York-NY-10065/72528517_zpid/",
+    "price": "$289,000",
+    "address": "205 E 63rd St APT 5H, New York, NY 10065",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Kleier Residential",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/7c5f21f1ccf3f787c2965d3c37608756-p_e.jpg",
+        "path": "images/72528517.jpg",
+        "checksum": "996293b4190b8aa26e5f7038a177582c",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244837775",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/e48ee4597bcbbec92a0e59a25ea397fa-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/60-Cooper-St-APT-6C-New-York-NY-10034/244837775_zpid/",
+    "price": "$225,000",
+    "address": "60 Cooper St APT 6C, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams Realty Gold Coast",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/e48ee4597bcbbec92a0e59a25ea397fa-p_e.jpg",
+        "path": "images/244837775.jpg",
+        "checksum": "75aeccab1478ab55a81dcd12d2cfa5b7",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "92693062",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/bb85711bbb872250dc7692a9198b83f3-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/278-Nagle-Ave-APT-1D-New-York-NY-10034/92693062_zpid/",
+    "price": "$199,000",
+    "address": "278 Nagle Avenue UNIT 1D, New York, NY 10034",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 700,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RE/MAX Distinguished Hms.&Prop",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/bb85711bbb872250dc7692a9198b83f3-p_e.jpg",
+        "path": "images/92693062.jpg",
+        "checksum": "aef50802680e914a785f0a80e602357d",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244749011",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/b7ce491e13cf69519bdc3ba510191410-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/251-E-32nd-St-2D-New-York-NY-10016/244749011_zpid/",
+    "price": "$295,000",
+    "address": "251 E 32nd St #2D, New York, NY 10016",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Douglas Elliman",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/b7ce491e13cf69519bdc3ba510191410-p_e.jpg",
+        "path": "images/244749011.jpg",
+        "checksum": "646f70adc115104cfe8a566aa7f4337b",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2053118619",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/8e297f63fe9613ceb59bd855f7d84c2f-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/501-W-156th-St-APT-42-New-York-NY-10032/2053118619_zpid/",
+    "price": "$214,995",
+    "address": "501 W 156th St APT 42, New York, NY 10032",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 700,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Esra Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/8e297f63fe9613ceb59bd855f7d84c2f-p_e.jpg",
+        "path": "images/2053118619.jpg",
+        "checksum": "b7312ba3575499d01e514b2c251a6859",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "351073520",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/bae8ad48c37d2e65ba6596bcff28e1bd-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/24-Cooper-St-APT-2C-New-York-NY-10034/351073520_zpid/",
+    "price": "$172,500",
+    "address": "24 Cooper St APT 2C, New York, NY 10034",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: The Leveque Group, LLC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/bae8ad48c37d2e65ba6596bcff28e1bd-p_e.jpg",
+        "path": "images/351073520.jpg",
+        "checksum": "8ed59c3669b9ebaf2327781e98395ad2",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "304064083",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/afdec89eb37137a32f2f35d0be53aced-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/24-Cooper-St-APT-3B-New-York-NY-10034/304064083_zpid/",
+    "price": "$195,000",
+    "address": "24 Cooper St APT 3B, New York, NY 10034",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 700,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/afdec89eb37137a32f2f35d0be53aced-p_e.jpg",
+        "path": "images/304064083.jpg",
+        "checksum": "88db65ef6938ff8617c8a3c608e38683",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244855750",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/d9357e77d8900fa96476c6c73951b0b0-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/521-E-88th-St-APT-1A-New-York-NY-10128/244855750_zpid/",
+    "price": "$279,000",
+    "address": "521 E 88th St APT 1A, New York, NY 10128",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Manhattan Flats",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/d9357e77d8900fa96476c6c73951b0b0-p_e.jpg",
+        "path": "images/244855750.jpg",
+        "checksum": "0fece48ca479a72442f88a257b5b3d12",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244711589",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/09a2bff555cf28ce5607b06e3e0e650b-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/215-E-89th-St-APT-3A-New-York-NY-10128/244711589_zpid/",
+    "price": "$215,000",
+    "address": "215 E 89th St APT 3A, New York, NY 10128",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: EXP Realty NYC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/09a2bff555cf28ce5607b06e3e0e650b-p_e.jpg",
+        "path": "images/244711589.jpg",
+        "checksum": "5c9b9e1867ea0acd5ca4b5000252be1b",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244852749",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/4defca8eb711e5574afe36fd1bbe9f8a-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/45-Tudor-City-Pl-APT-205-New-York-NY-10017/244852749_zpid/",
+    "price": "$299,000",
+    "address": "45 Tudor City Pl APT 205, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 330,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Steven Corcoran Real Estate",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/4defca8eb711e5574afe36fd1bbe9f8a-p_e.jpg",
+        "path": "images/244852749.jpg",
+        "checksum": "967aca992e076951996a50bcdfa6a1b7",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72539356",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/4ac6fb9f8ffb31a8a4d3e98467631848-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/153-E-57th-St-APT-14L-New-York-NY-10022/72539356_zpid/",
+    "price": "$299,000",
+    "address": "153 E 57th St APT 14L, New York, NY 10022",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/4ac6fb9f8ffb31a8a4d3e98467631848-p_e.jpg",
+        "path": "images/72539356.jpg",
+        "checksum": "52a4c1aa0e7819accf05e873d14bfbfa",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72525086",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/46f83d6d845d0f31262db9f847776c33-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-610-New-York-NY-10017/72525086_zpid/",
+    "price": "$275,000",
+    "address": "25 Tudor City Pl APT 610, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/46f83d6d845d0f31262db9f847776c33-p_e.jpg",
+        "path": "images/72525086.jpg",
+        "checksum": "b97720fae889daee1afdd1ab1eb7e3a0",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244899620",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/782857645d42f62583cb969b40fcca94-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/45-Tudor-City-Pl-APT-1505-New-York-NY-10017/244899620_zpid/",
+    "price": "$300,000",
+    "address": "45 Tudor City Pl APT 1505, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/782857645d42f62583cb969b40fcca94-p_e.jpg",
+        "path": "images/244899620.jpg",
+        "checksum": "51b07ab829257047eef6ffa251f0ba3a",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2084766364",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/116c138ae0e2115090267cefce933284-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/29-Convent-9-New-York-NY-10027/2084766364_zpid/",
+    "price": "$250,000",
+    "address": "29 Convent #9, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Douglas Elliman",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/116c138ae0e2115090267cefce933284-p_e.jpg",
+        "path": "images/2084766364.jpg",
+        "checksum": "7bb186d624c7d87c815d9c4d7b68039c",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "349759370",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/0a9655c45922d3f030069d26d3ffc98d-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/160-E-91st-St-APT-7E-New-York-NY-10128/349759370_zpid/",
+    "price": "$285,000",
+    "address": "160 E 91st St APT 7E, New York, NY 10128",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/0a9655c45922d3f030069d26d3ffc98d-p_e.jpg",
+        "path": "images/349759370.jpg",
+        "checksum": "eaeb6d27b938a1b3ac2bda6cf8e73cb8",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2060832691",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/0ac8aa315ee64d5ac604061b17faeb06-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/1993-Amsterdam-Ave-APT-52-New-York-NY-10032/2060832691_zpid/",
+    "price": "$205,000",
+    "address": "1993 Amsterdam Ave APT 52, New York, NY 10032",
+    "beds": 3,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RC Realty Group of New York Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/0ac8aa315ee64d5ac604061b17faeb06-p_e.jpg",
+        "path": "images/2060832691.jpg",
+        "checksum": "ee32e6230b9caf24cda75a4a2c84654c",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "79508497",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/d2bab08901b1878172bdc8698e780d18-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/100-Park-Ter-W-APT-1H-New-York-NY-10034/79508497_zpid/",
+    "price": "$249,000",
+    "address": "100 Park Ter W APT 1H, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 500,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: New Heights Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/d2bab08901b1878172bdc8698e780d18-p_e.jpg",
+        "path": "images/79508497.jpg",
+        "checksum": "ad2c5f72c87338ce9faa1422e780a877",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "219709649",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/3acb4f2f9185d28e65cdc973f98a7f94-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/2440-Amsterdam-Ave-APT-1L-Manhattan-NY-10033/219709649_zpid/",
+    "price": "$179,000",
+    "address": "2440 Amsterdam Ave APT 1L, Manhattan, NY 10033",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Douglas Elliman",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3acb4f2f9185d28e65cdc973f98a7f94-p_e.jpg",
+        "path": "images/219709649.jpg",
+        "checksum": "8e9ef90567d5f352407bc2e9f80c7dc7",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "338163014",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/3d85116ca67994432f1443300ba13974-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/30-Macombs-Pl-24-Manhattan-NY-10039/338163014_zpid/",
+    "price": "$265,888",
+    "address": "30 Macombs Pl #24, Manhattan, NY 10039",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 790,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Cohen and Cohen Consulting Realty Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3d85116ca67994432f1443300ba13974-p_e.jpg",
+        "path": "images/338163014.jpg",
+        "checksum": "2060a4506e4cc7f8856771a9bbc75981",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72525775",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/6d01e84474fe7f8135aa1078606ce2a4-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/345-E-54th-St-APT-2-B-New-York-NY-10022/72525775_zpid/",
+    "price": "$299,000",
+    "address": "345 E 54th St APT 2-B, New York, NY 10022",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 400,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Coldwell Banker Warburg",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/6d01e84474fe7f8135aa1078606ce2a4-p_e.jpg",
+        "path": "images/72525775.jpg",
+        "checksum": "d17f5b16ab3cf389066ede4b14d418a7",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "79497850",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/55215b7cbbd1fe57d4460ef69ecf46ab-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/100-W-57th-St-APT-12H-New-York-NY-10019/79497850_zpid/",
+    "price": "$209,000",
+    "address": "100 W 57th St APT 12H, New York, NY 10019",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 950,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Pergolotti Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/55215b7cbbd1fe57d4460ef69ecf46ab-p_e.jpg",
+        "path": "images/79497850.jpg",
+        "checksum": "65cb0350a3a1c7049315996b111d3fe3",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2089284712",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ecfd23fa62e02b7bce834150a201bd7c-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/557-W-150th-St-APT-3-New-York-NY-10031/2089284712_zpid/",
+    "price": "$160,000",
+    "address": "557 W 150th St APT 3, New York, NY 10031",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Brown Harris Stevens",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ecfd23fa62e02b7bce834150a201bd7c-p_e.jpg",
+        "path": "images/2089284712.jpg",
+        "checksum": "bc3744a663bcb7ffe672268eaac51da8",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "348493511",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/93b695f6826f7e2fd327483366f9f674-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/563-W-150th-St-APT-2F-New-York-NY-10031/348493511_zpid/",
+    "price": "$150,000",
+    "address": "563 W 150th St APT 2F, New York, NY 10031",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Brown Harris Stevens",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/93b695f6826f7e2fd327483366f9f674-p_e.jpg",
+        "path": "images/348493511.jpg",
+        "checksum": "7109c1c9f1ee04eaf6bb3c0dcbac1849",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244702918",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/3c62942d90d50bf1ba78d09b270f096b-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-722-New-York-NY-10017/244702918_zpid/",
+    "price": "$295,000",
+    "address": "25 Tudor City Pl APT 722, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3c62942d90d50bf1ba78d09b270f096b-p_e.jpg",
+        "path": "images/244702918.jpg",
+        "checksum": "b92c2fe3d6f3f61e564c59aa5cdb39f0",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "110544386",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/f6b38e6f9be2b7e46f91fcd06525d763-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/120-E-83rd-St-APT-2D-New-York-NY-10028/110544386_zpid/",
+    "price": "$299,000",
+    "address": "120 E 83rd St APT 2D, New York, NY 10028",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/f6b38e6f9be2b7e46f91fcd06525d763-p_e.jpg",
+        "path": "images/110544386.jpg",
+        "checksum": "11c02c148b1f7f675c4b9f6b06e12ec3",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72540438",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/5e3bd4824c651767f29ffaf218b84d77-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/1779-Madison-Ave-APT-202-New-York-NY-10035/72540438_zpid/",
+    "price": "$225,000",
+    "address": "1779 Madison Ave APT 202, New York, NY 10035",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: The Roebling Group",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/5e3bd4824c651767f29ffaf218b84d77-p_e.jpg",
+        "path": "images/72540438.jpg",
+        "checksum": "e955d5e12a2fd2e9112a00aaa9fae028",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "119916963",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/4ed65c69bb97cf891edf0008ed8a3d8b-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/36-Convent-Ave-APT-19-New-York-NY-10027/119916963_zpid/",
+    "price": "$278,000",
+    "address": "36 Convent Ave APT 19, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 700,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams Realty of Greater Nassau",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/4ed65c69bb97cf891edf0008ed8a3d8b-p_e.jpg",
+        "path": "images/119916963.jpg",
+        "checksum": "25efff90a37371034d7079a0be1f6d1c",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "321917002",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/9d5f067147e2d91531d27d848553fd3d-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/98-Park-Ter-E-APT-1D-New-York-NY-10034/321917002_zpid/",
+    "price": "$299,000",
+    "address": "98 Park Ter E APT 1D, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 500,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/9d5f067147e2d91531d27d848553fd3d-p_e.jpg",
+        "path": "images/321917002.jpg",
+        "checksum": "f91d332d01bfa1e11c665097e4d21726",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2054955255",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/57e6d7993533ad74d5b919c990ca9f56-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/579-W-215th-St-APT-9D-New-York-NY-10034/2054955255_zpid/",
+    "price": "$270,000",
+    "address": "579 W 215th St APT 9D, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Sotheby's International Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/57e6d7993533ad74d5b919c990ca9f56-p_e.jpg",
+        "path": "images/2054955255.jpg",
+        "checksum": "33209636310bfc1161cf244f7a7460d0",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2096242123",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/1876b2ec9ed1a11255e66c11515e5d4c-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/225-Bennett-Ave-APT-4C-New-York-NY-10040/2096242123_zpid/",
+    "price": "$265,000",
+    "address": "225 Bennett Ave APT 4C, New York, NY 10040",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/1876b2ec9ed1a11255e66c11515e5d4c-p_e.jpg",
+        "path": "images/2096242123.jpg",
+        "checksum": "175a93941434005c45c869717c30510c",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "79501779",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/ef1ca043a93f98412c2128205d53fabb-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/155-E-49th-St-10E-New-York-NY-10017/79501779_zpid/",
+    "price": "$299,000",
+    "address": "155 E 49th St #10E, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: SERHANT.",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/ef1ca043a93f98412c2128205d53fabb-p_e.jpg",
+        "path": "images/79501779.jpg",
+        "checksum": "15c29b1c53ea45222d9275372286c826",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "119912226",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/47575d2b3536df9542a78f8137a0b01a-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/66-Overlook-Ter-APT-8G-New-York-NY-10040/119912226_zpid/",
+    "price": "$295,000",
+    "address": "66 Overlook Ter APT 8G, New York, NY 10040",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 680,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Sotheby's International Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/47575d2b3536df9542a78f8137a0b01a-p_e.jpg",
+        "path": "images/119912226.jpg",
+        "checksum": "4f23aacdb4ddd8b9a821cbd3beabe703",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2062974755",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/c6cfe2ac217af452ac1ebe16add8ba12-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/557-W-150th-St-APT-24-New-York-NY-10031/2062974755_zpid/",
+    "price": "$249,000",
+    "address": "557 W 150th Street UNIT 24, New York, NY 10031",
+    "beds": 3,
+    "baths": 1.0,
+    "sqft": 950,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: YourHomeSold Guaranteed Realty",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/c6cfe2ac217af452ac1ebe16add8ba12-p_e.jpg",
+        "path": "images/2062974755.jpg",
+        "checksum": "0462063d88f950ad694055440346b043",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244881427",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/c28e428141ac70c3bed1ec0701fb61e0-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/25-Tudor-City-Pl-APT-606-New-York-NY-10017/244881427_zpid/",
+    "price": "$299,500",
+    "address": "25 Tudor City Pl APT 606, New York, NY 10017",
+    "beds": 0,
+    "baths": 301.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: JACOB G WAN, LREB",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/c28e428141ac70c3bed1ec0701fb61e0-p_e.jpg",
+        "path": "images/244881427.jpg",
+        "checksum": "9306237c028090c5e462d05659631ba8",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "340046905",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/67b3c9e769eb5ddd14f0bb0e0ce01c70-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/579-W-215th-St-APT-3D-New-York-NY-10034/340046905_zpid/",
+    "price": "$230,000",
+    "address": "579 W 215th St APT 3D, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 550,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Exit Realty First Choice",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/67b3c9e769eb5ddd14f0bb0e0ce01c70-p_e.jpg",
+        "path": "images/340046905.jpg",
+        "checksum": "f1bc569688cfcb5df7b38d41e83f12bf",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2095682447",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/0e1951e2a428bc5ddf7f8b16ea8a9bb3-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/579-W-215th-St-APT-6D-New-York-NY-10034/2095682447_zpid/",
+    "price": "$255,000",
+    "address": "579 W 215th St APT 6D, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 550,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Exit Realty First Choice",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/0e1951e2a428bc5ddf7f8b16ea8a9bb3-p_e.jpg",
+        "path": "images/2095682447.jpg",
+        "checksum": "e80143f2e4586faeb232a9e1291dac86",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2059103741",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/cd37b61eed6b127ef96f475649fa7a16-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/506-W-145th-St-4D-New-York-NY-10031/2059103741_zpid/",
+    "price": "$125,000",
+    "address": "506 W 145th St #4D, New York, NY 10031",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/cd37b61eed6b127ef96f475649fa7a16-p_e.jpg",
+        "path": "images/2059103741.jpg",
+        "checksum": "9ef2718a980ba823e652160f7c6cb444",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244896351",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/58d6caf839789f2db86289b73e0b1a8f-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/604-Riverside-Dr-APT-1B-New-York-NY-10031/244896351_zpid/",
+    "price": "$295,000",
+    "address": "604 Riverside Dr APT 1B, New York, NY 10031",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/58d6caf839789f2db86289b73e0b1a8f-p_e.jpg",
+        "path": "images/244896351.jpg",
+        "checksum": "c8fcceb966a3b2570ae235c31a8aa5b0",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2052897328",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/d0bc9605e1c106a3552a5668d595854d-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/12-E-132nd-St-B4-New-York-NY-10037/2052897328_zpid/",
+    "price": "$299,000",
+    "address": "12 E 132nd St #B4, New York, NY 10037",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/d0bc9605e1c106a3552a5668d595854d-p_e.jpg",
+        "path": "images/2052897328.jpg",
+        "checksum": "a0d568a9b8228f503051dda0b0eb98e4",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244705462",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/a1b09f9262e5cfa095899d7286959b53-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/311-E-75th-St-APT-2-A-New-York-NY-10021/244705462_zpid/",
+    "price": "$279,000",
+    "address": "311 E 75th St APT 2-A, New York, NY 10021",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Manhattan Flats",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/a1b09f9262e5cfa095899d7286959b53-p_e.jpg",
+        "path": "images/244705462.jpg",
+        "checksum": "8cb54668e1dfcd9a710cccf40015dd84",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72519015",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/18a14d5ac420a48cfb1a79c9688032f7-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/100-W-57th-St-APT-2G-Manhattan-NY-10019/72519015_zpid/",
+    "price": "$169,800",
+    "address": "100 W 57th St APT 2G, Manhattan, NY 10019",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Exit Realty First Choice",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/18a14d5ac420a48cfb1a79c9688032f7-p_e.jpg",
+        "path": "images/72519015.jpg",
+        "checksum": "856b8ebea9c355fd729a00fd3c119d36",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2053530724",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/e91b46096e728607b3f6e18088297ee6-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/11-Saint-Nicholas-Ave-APT-3E-New-York-NY-10026/2053530724_zpid/",
+    "price": "$200,000",
+    "address": "11 Saint Nicholas Ave APT 3E, New York, NY 10026",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/e91b46096e728607b3f6e18088297ee6-p_e.jpg",
+        "path": "images/2053530724.jpg",
+        "checksum": "a8a34bed2a77c2a4345e2ac88a22bedf",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2053833479",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/de441530db866cf49a8a86b4aaeabe88-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/824-Saint-Nicholas-Ave-APT-41-New-York-NY-10031/2053833479_zpid/",
+    "price": "$289,999",
+    "address": "824 St. Nicholas Ave UNIT 41, New York, NY 10031",
+    "beds": 2,
+    "baths": 1.0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Keller Williams Legendary",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/de441530db866cf49a8a86b4aaeabe88-p_e.jpg",
+        "path": "images/2053833479.jpg",
+        "checksum": "54753fa5a1e543e69b1d38772b0989a5",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2054194256",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/7e87ec0e878074659dea2cf2e0f3bb1a-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/56-W-119th-St-APT-3E-New-York-NY-10026/2054194256_zpid/",
+    "price": "$300,000",
+    "address": "56 W 119th St APT 3E, New York, NY 10026",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Oxford Property Group",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/7e87ec0e878074659dea2cf2e0f3bb1a-p_e.jpg",
+        "path": "images/2054194256.jpg",
+        "checksum": "185f322b7af8a9436e6003fad248bc82",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "72536575",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/037924a17a0010970f001102a5ffb057-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/680-W-204th-St-APT-4E-New-York-NY-10034/72536575_zpid/",
+    "price": "$286,500",
+    "address": "680 W 204th St APT 4E, New York, NY 10034",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 925,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Dmitry Yampolsky, LREB",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/037924a17a0010970f001102a5ffb057-p_e.jpg",
+        "path": "images/72536575.jpg",
+        "checksum": "0f9133b2337922820ec25adfbfaf5221",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2054303228",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/d3a2757fade582b549a041aba477b79c-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/21-Arden-St-APT-5A-New-York-NY-10040/2054303228_zpid/",
+    "price": "$149,900",
+    "address": "21 Arden St APT 5A, New York, NY 10040",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 604,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Michael Reed, LREB",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/d3a2757fade582b549a041aba477b79c-p_e.jpg",
+        "path": "images/2054303228.jpg",
+        "checksum": "cbb646d8cdac3a02f01c3b743937013e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2067717578",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/13154806185146c4b3187a901445b572-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/535-W-163rd-St-54-New-York-NY-10032/2067717578_zpid/",
+    "price": "$239,000",
+    "address": "535 W 163rd St #54, New York, NY 10032",
+    "beds": 2,
+    "baths": 1.0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Realty Networking Services",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/13154806185146c4b3187a901445b572-p_e.jpg",
+        "path": "images/2067717578.jpg",
+        "checksum": "e366e8a402af242f1157db7f58b5d805",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244765473",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/4d5b4dff5a48fc32d721cbc258de8fc9-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/155-E-49th-St-10D-New-York-NY-10017/244765473_zpid/",
+    "price": "$290,000",
+    "address": "155 E 49th St #10D, New York, NY 10017",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Coldwell Banker Warburg",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/4d5b4dff5a48fc32d721cbc258de8fc9-p_e.jpg",
+        "path": "images/244765473.jpg",
+        "checksum": "f53551bb40e777dafb28111dd10285ff",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244699028",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/4b139927bfe3b586e12cf984cf0fa106-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/515-W-151st-St-APT-4W-New-York-NY-10031/244699028_zpid/",
+    "price": "$269,000",
+    "address": "515 W 151st St APT 4W, New York, NY 10031",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 650,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: United Realty Estate Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/4b139927bfe3b586e12cf984cf0fa106-p_e.jpg",
+        "path": "images/244699028.jpg",
+        "checksum": "1030d8dc7fc34cf6b90a945030ebd59e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "112561151",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/4989cff028779c923415a4f3254e197b-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/339-E-58th-St-APT-9E-New-York-NY-10022/112561151_zpid/",
+    "price": "$279,000",
+    "address": "339 E 58th St APT 9E, New York, NY 10022",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Douglas Elliman",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/4989cff028779c923415a4f3254e197b-p_e.jpg",
+        "path": "images/112561151.jpg",
+        "checksum": "704d9a85f06826d9024c1b12873a493e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2058192653",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/91a74cfb58175f4d605a4d811687c180-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/24-Cooper-St-B-New-York-NY-10034/2058192653_zpid/",
+    "price": "$180,000",
+    "address": "24 Cooper Street UNIT B, New York, NY 10034",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 615,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: The Bridge Realty Group NY LLC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/91a74cfb58175f4d605a4d811687c180-p_e.jpg",
+        "path": "images/2058192653.jpg",
+        "checksum": "d8fddc34174bb5ce4166516007f7cdbe",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2108294174",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/3cfc84a7a556f63493cffa48897d0ce3-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/205-E-63rd-St-APT-6A-New-York-NY-10065/2108294174_zpid/",
+    "price": "$300,000",
+    "address": "205 E 63rd St APT 6A, New York, NY 10065",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Kleier Residential",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3cfc84a7a556f63493cffa48897d0ce3-p_e.jpg",
+        "path": "images/2108294174.jpg",
+        "checksum": "a58bd9ded40bd4b29e4b654ff1c21c01",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "81963805",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/43339d299ddc2b45e71322cc3c615cd5-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/70-Park-Ter-E-APT-1G-New-York-NY-10034/81963805_zpid/",
+    "price": "$229,000",
+    "address": "70 Park Ter E APT 1G, New York, NY 10034",
+    "beds": 0,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Row Real Estate LLC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/43339d299ddc2b45e71322cc3c615cd5-p_e.jpg",
+        "path": "images/81963805.jpg",
+        "checksum": "641fbb0cd7da5f3e8299b1ab49390e7b",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "121651355",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/54b3705d2dfef47773f97c9b884e47c9-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/30-Macombs-Pl-APT-61-New-York-NY-10039/121651355_zpid/",
+    "price": "$299,990",
+    "address": "30 Macombs Pl APT 61, New York, NY 10039",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 600,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: EXP Realty NYC",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/54b3705d2dfef47773f97c9b884e47c9-p_e.jpg",
+        "path": "images/121651355.jpg",
+        "checksum": "c7f2731b23bf56dc31c6dbf43f496988",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244816409",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/e31a154e3f5e56040ccd43e5f7c2a822-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/229-W-144th-St-APT-16-New-York-NY-10030/244816409_zpid/",
+    "price": "$175,000",
+    "address": "229 W 144th St APT 16, New York, NY 10030",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Bizzarro Agency",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/e31a154e3f5e56040ccd43e5f7c2a822-p_e.jpg",
+        "path": "images/244816409.jpg",
+        "checksum": "6f15e40e84109feb0d113ad10186685a",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "306099861",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/44bcd5e285ed95b660fee2c3d6c897d7-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/1993-Amsterdam-Ave-63-New-York-NY-10032/306099861_zpid/",
+    "price": "$259,000",
+    "address": "1993 Amsterdam Ave #63, New York, NY 10032",
+    "beds": 3,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RC Realty Group of New York Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/44bcd5e285ed95b660fee2c3d6c897d7-p_e.jpg",
+        "path": "images/306099861.jpg",
+        "checksum": "60469053dbaa4e07217cb2f7ae57b726",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "219707134",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/06071b3df5e81a7b25e2927bc37f24b8-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/206-W-121st-St-E-New-York-NY-10027/219707134_zpid/",
+    "price": "$229,000",
+    "address": "206 W 121st St #E, New York, NY 10027",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Bohemia Realty Group",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/06071b3df5e81a7b25e2927bc37f24b8-p_e.jpg",
+        "path": "images/219707134.jpg",
+        "checksum": "31cad5c970e9986096d36d576bce9abd",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "244757772",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/c7fa89442cc693c1d389200c95dfd186-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/1777-Madison-Ave-APT-32-New-York-NY-10035/244757772_zpid/",
+    "price": "$265,000",
+    "address": "1777 Madison Ave APT 32, New York, NY 10035",
+    "beds": 1,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: Compass",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/c7fa89442cc693c1d389200c95dfd186-p_e.jpg",
+        "path": "images/244757772.jpg",
+        "checksum": "44e3d368d8128909193664193e08941e",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2078114105",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/50861ff2312c8076058fcaca4d2bacd5-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/1993-Amsterdam-Ave-54-New-York-NY-10032/2078114105_zpid/",
+    "price": "$199,000",
+    "address": "1993 Amsterdam Ave #54, New York, NY 10032",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RC Realty Group of New York Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/50861ff2312c8076058fcaca4d2bacd5-p_e.jpg",
+        "path": "images/2078114105.jpg",
+        "checksum": "cbe680dd92ef102fa9a5a1400214b9ab",
+        "status": "downloaded"
+      }
+    ]
+  },
+  {
+    "id": "2088584522",
+    "status": "For Sale by Agent",
+    "image_urls": [
+      "https://photos.zillowstatic.com/fp/90a0195a16d14b0c6302aeb85f06d20c-p_e.jpg"
+    ],
+    "url": "https://www.zillow.com/homedetails/1993-Amsterdam-Ave-APT-64-New-York-NY-10032/2088584522_zpid/",
+    "price": "$185,000",
+    "address": "1993 Amsterdam Ave APT 64, New York, NY 10032",
+    "beds": 2,
+    "baths": 1.0,
+    "sqft": 0,
+    "isZillowOwned": false,
+    "broker_name": "Listing by: RC Realty Group of New York Inc",
+    "images": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/90a0195a16d14b0c6302aeb85f06d20c-p_e.jpg",
+        "path": "images/2088584522.jpg",
+        "checksum": "f5ce0f14e01781a76a39d75111fc7c42",
+        "status": "downloaded"
+      }
+    ]
+  }
+]
