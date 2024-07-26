@@ -1,6 +1,6 @@
 # Zillow
 
-A web scraping project that scrapes properties from the Zillow website with specific filters (For sale, Manhattan NY, $100k-$300k). Cover images of the listings are also scraped and stored in the folder ./Zillow/images.
+A web scraping project that scrapes rental listings from the Zillow website using a web spider that runs on Scrapy. Specific filters were used (For sale, Manhattan NY, $100k-$300k). Cover images of the listings are also scraped and stored in the folder ./Zillow/images.
 
 To run this project:
 
